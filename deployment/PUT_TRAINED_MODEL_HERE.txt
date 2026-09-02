@@ -1,0 +1,1 @@
+After training, place fashion_cnn_model.keras in this folder before uploading to GitHub.
